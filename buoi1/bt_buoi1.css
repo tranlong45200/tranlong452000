@@ -1,0 +1,55 @@
+.class
+{
+    font-style: normal;
+    font-size: 10px;
+    
+}
+.class1
+{
+    weight: 100%;
+    background: rgb(233, 166, 142);
+    color: blue;
+    font-size 10px;
+}
+.class2
+{
+    font-size: 20px;
+}
+.class4
+{
+    background: black;
+    color: white;
+    font-size: 20px;
+}
+.class5
+{
+    text-align: center;
+}
+.class6
+{
+    background: rgb(131, 171, 243);
+    font-size: 50px;
+
+}
+.class7
+{
+    font-size: 50px;
+    color: crimson;
+    background: coral;
+}
+.class8
+{
+    background:palevioletred;
+}  
+.class9
+{
+    background: coral;
+}
+.class10
+{
+    background: peachpuff;
+}
+.class11
+{
+    weight: 10px;
+}

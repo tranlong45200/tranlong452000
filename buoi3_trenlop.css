@@ -1,0 +1,43 @@
+body{
+    margin: 0;
+}
+nav{
+    display: block;
+    justify-content: left;
+    background-color;
+    
+}
+.menu_item{
+    position: relative;
+    width: 10%;
+    padding: 20px;
+    left: 0;
+    background: white;
+}
+.menu_item:hover{
+    background: black;
+    color: aliceblue;
+}
+.menu_container{
+    position: absolute;
+    
+}
+.menu_container{
+    display: none;
+}
+.menu_item2{
+    padding:  8px 16px;
+    text-align: center;
+    background:aqua;
+    color: black
+}
+.menu_item2:hover{
+    background-color:red;
+    color:black;
+}
+.menu_item:hover .menu_container{
+    display: flex;
+    width: 100%;
+    top: 0;
+    left: 100%;
+}

@@ -1,0 +1,42 @@
+div{
+ 
+    width: 200PX;
+    height: 110px;
+    color:white;
+    background-color: red;
+    padding: 10px;
+    margin: 10px;
+    margin-top: 90px;
+
+}
+body{
+    margin: 10px;
+}
+span{
+    color: rosybrown;
+    background-color: royalblue;
+    margin: 30px;
+}
+h3{
+    margin:20px;
+
+}
+h2{
+    display: inline-block;
+    margin:40px;
+    color: salmon;
+    background: silver;
+}
+.container{
+    display: flex;
+    flex-direction: row-reverse;
+    /* flex-wrap: nowrap; */
+    align-items: baseline;
+}
+.item{
+    padding: 5px;;
+    background: #f4f4f4;
+    border: 1px solid black;
+    margin:5px;
+    color: black;
+}
